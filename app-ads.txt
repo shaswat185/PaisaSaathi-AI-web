@@ -2,4 +2,4 @@
 # AdMob se apna exact line yahan paste karo (AdMob > Apps > View app-ads.txt / Settings).
 # Format:
 # google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
-# Is comment block ko hata kar sirf asli line rakho. File root par hosti honi chahiye: https://YOUR-DOMAIN/app-ads.txt
+# Is comment block ko hata kar sirf asli line rakho. File root par hosti honi chahiye: https://paisasaathi-ai.vercel.app/app-ads.txt
