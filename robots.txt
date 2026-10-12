@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://paisasaathi-ai.vercel.app/sitemap.xml
+Sitemap: https://www.paisasaathi.co.in/sitemap.xml
